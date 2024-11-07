@@ -87,3 +87,5 @@ This README provides a step-by-step guide to setting up the CRMS application by 
      - Pricing plan details: `PLANID`, `PLANNAME`, `DESCRIPTION`
    - **Use**: Useful for understanding client segmentation based on their selected pricing plans, supporting targeted marketing, billing, and personalized offerings.
 
+## ER Diagram
+![ER-Diagram](ER_diagram.png)  
